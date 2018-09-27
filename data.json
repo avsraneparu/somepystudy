@@ -1,0 +1,61 @@
+{
+    "requests": [
+        {
+            "created_by": {
+                "id": "33",
+                "name": "Щукин Антон Владимирович"
+            },
+            "site": null,
+            "template": {
+                "id": "1202",
+                "name": "Проблема с МФУ (принтером)"
+            },
+            "requester": {
+                "id": "33",
+                "name": "Щукин Антон Владимирович"
+            },
+            "technician": {
+                "id": "41",
+                "name": "Капустин Игорь Николаевич"
+            },
+            "status": {
+                "id": "1",
+                "color": "#0066ff",
+                "name": "Открыта"
+            },
+            "subject": "Проблема с МФУ (принтером)",
+            "is_overdue": true,
+            "due_by_time": {
+                "display_value": "27/09/2018 09:05",
+                "value": "1538028318169"
+            },
+            "id": "4",
+            "time_elapsed": null,
+            "short_description": "Имя рабочей станции (ПК) *PC-234567890                                                                                                             Учетная запись пользователя ** avs  Описание проблемы (постав...",
+            "priority": {
+                "id": "2",
+                "color": "#006600",
+                "name": "Нормальный"
+            },
+            "group": {
+                "id": "3",
+                "name": "Проблемы с принтерами"
+            },
+            "created_time": {
+                "display_value": "26/09/2018 12:20",
+                "value": "1537953618169"
+            },
+            "is_service_request": false
+        }
+    ],
+    "response_status": [
+        {
+            "status_code": 2000,
+            "status": "success"
+        }
+    ],
+    "list_info": {
+        "has_more_rows": false,
+        "row_count": 1
+    }
+}
